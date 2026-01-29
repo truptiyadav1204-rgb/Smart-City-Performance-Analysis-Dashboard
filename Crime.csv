@@ -1,0 +1,6 @@
+City_ID,Crime_Type,Crime_Count,Year
+1,Theft,1200,2024
+2,Robbery,600,2024
+3,Assault,450,2024
+4,Theft,300,2024
+5,Fraud,250,2024
